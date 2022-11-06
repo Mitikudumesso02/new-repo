@@ -1,1 +1,3 @@
-# new-repo
+   creating password java script
+ password generator
+ 
